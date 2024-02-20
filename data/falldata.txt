@@ -1,0 +1,2 @@
+Dummy file.
+The data has to be stored in a csv file named falldata.
