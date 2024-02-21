@@ -1,2 +1,10 @@
-Dummy file.
-The data has to be stored in a csv file named falldata.
+THIS IS NOT THE DATA FILE. THIS IS MORE INFORMATION ABOUT THE DATA.
+
+Important points of note:
+- The features take inspiration from the Community Health Assessment (CHA) Clinical Assessment Protocols (CAPs) Triggers laid out as per interRAI,
+which is a global network of researchers and practitioners.
+- The file for interRAI CHA CAPs Trigger categories is in this folder for further reference.
+- The original sample data is for Long Term Care Facilities, stored as a JSON file.
+
+Features in the data.
+
